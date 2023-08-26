@@ -23,3 +23,9 @@ form{
   /* display: none; */
   
 }
+ul{
+  color: crimson;
+}
+ol{
+  color:blue;
+}
