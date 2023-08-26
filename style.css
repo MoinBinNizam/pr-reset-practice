@@ -1,0 +1,25 @@
+*{
+  background-color: bisque;
+}
+.third-paragraph{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+  background-color: cadetblue;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration:underline;
+}
+.three h1{
+  color: blueviolet;
+}
+img{
+  background-repeat: cover;
+  border: 5px solid green;
+  border-radius: 5px;
+  max-width: 100%;
+  display: none;
+}
+form{
+  /* display: none; */
+  
+}
